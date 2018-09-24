@@ -1,6 +1,6 @@
 package com.privalia.principal;
 
-import com.privalia.business.Calculator; 
+import com.privalia.business.Calculator;
 import com.privalia.business.ICalculator;
 
 public class Main {
